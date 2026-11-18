@@ -10,8 +10,8 @@ I am using **ChatGPT 6** to streamline the process of reconstructing historical
 letterforms and reproducing the book’s typography and layout.
 
 The project currently includes a digital font family based on the **first
-edition of Darwin’s *On the Origin of Species* (1859)** and a **compact PDF
-reconstruction of the book typeset with these fonts**. The book is available
+edition of Darwin’s *On the Origin of Species* (1859)** and a [**compact PDF
+reconstruction of the book typeset with these fonts**](https://github.com/LuciferaseMaster/Darwin-Origin-1859-Book-and-Font/tree/main/book). The book is available
 as an editable Word document, two PDF exports, and a reflowable EPUB.
 
 Font design and reconstruction: **Michael Koksharov**, using multiple cycles
