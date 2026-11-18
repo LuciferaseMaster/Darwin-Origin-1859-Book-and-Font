@@ -50,7 +50,7 @@ Letterforms were recovered from scans, compared across repeated impressions,
 and refined as vector outlines. Spacing and kerning were adjusted for readable
 text while retaining the character of the source printing. The Greek letterforms
 were reconstructed from the type used in Raphael Kühner’s Greek grammar
-(1859), then adapted to match the Origin fonts.
+(1859), then adapted to match the Origin fonts. The Greek letterforms were added to cover routine scientific use, the "mu sign" was designed to be slightly different from the mu letter.
 
 The book combines scan-derived text with comparison against the first-edition
 transcription and images. Its layout preserves printed page boundaries,
