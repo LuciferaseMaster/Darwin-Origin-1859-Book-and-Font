@@ -6,7 +6,7 @@ Origin of Species*—one of the most recognizable scientific books of the
 nineteenth century—provides a natural source material for this project.
 
 It is also an experiment in the capabilities of modern large language models:
-[I am using **ChatGPT 6**](https://chatgpt.com/share/6afdda47-7e64-83ea-bc02-dcb7b0086fcf) to streamline the process of reconstructing historical
+I am using **ChatGPT 6** to streamline the process of reconstructing historical
 letterforms and reproducing the book’s typography and layout.
 
 The project currently includes a [digital font family](/fonts/) based on the **first
@@ -14,8 +14,8 @@ edition of Darwin’s *On the Origin of Species* (1859)** and a [**compact PDF
 reconstruction of the book typeset with these fonts**](/book/). The book is available
 as an editable Word document, two PDF exports, and a reflowable EPUB.
 
-Font design and reconstruction: **Michael Koksharov**, using multiple cycles
-of **ChatGPT 6 Work**. Charles Darwin is the author of the original book.
+Font design and reconstruction: **Michael Koksharov**, using [multiple cycles
+of **ChatGPT 6 Work**](https://chatgpt.com/share/6afdda47-7e64-83ea-bc02-dcb7b0086fcf). Charles Darwin is the author of the original book.
 
 ![Origin 1859 Text: Regular, Italic, Small Caps, and sample Greek letters.](fonts/images/Origin1859-Overview.png)
 
