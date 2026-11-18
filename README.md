@@ -3,7 +3,7 @@
 This project is an attempt to create an appealing, vintage-style digital font
 for scientific writing and science hobby projects. Charles Darwin’s *On the
 Origin of Species*—one of the most recognizable scientific books of the
-nineteenth century—provides a natural starting point.
+nineteenth century—provides a natural source material for this project.
 
 It is also an experiment in the capabilities of modern large language models:
 I am using **ChatGPT 6** to streamline the process of reconstructing historical
