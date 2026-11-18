@@ -62,6 +62,8 @@ This is a historical reconstruction, not an exact recovery of the original
 metal type or a fully proofread critical edition. Fine details and occasional
 transcription or layout errors may remain.
 
+![](/fonts/images/typographic-anatomy.jpg)
+
 ## Documentation
 
 - [Overall generation process](docs/GENERATION.md)
