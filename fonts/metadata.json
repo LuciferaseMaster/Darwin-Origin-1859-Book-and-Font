@@ -1,0 +1,77 @@
+[
+  {
+    "file": "ttf/Origin1859-Regular.ttf",
+    "name_table": {
+      "0": "Scan-based reconstruction created 2026. Source: Charles Darwin, On the Origin of Species (1859), Wellcome Collection b1802922x (Public Domain Mark).",
+      "1": "Origin 1859 Text",
+      "2": "Regular",
+      "3": "Origin1859Text-Regular-1.00",
+      "4": "Origin 1859 Text Regular",
+      "5": "Version 1.00",
+      "6": "Origin1859Text-Regular",
+      "8": null,
+      "9": "Michael Koksharov",
+      "10": "Origin 1859, Greek retraced from Kuhner 1859. Explicit straight-edge constructions and source-coordinate curves; no global smoothing or thinning. Upright Greek is a de-slanted adaptation. Designed by Michael Koksharov using multiple cycles of ChatGPT 6 Work.",
+      "11": null,
+      "12": null,
+      "13": "This reconstruction may be used, modified and redistributed freely, including commercially. No claim of exact recovery of the original metal punches.",
+      "14": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "16": "Origin 1859 Text",
+      "17": "Regular"
+    },
+    "font_revision": 1.0,
+    "units_per_em": 1000,
+    "embedding_restrictions_fsType": 0,
+    "unicode_mapping_count": 190
+  },
+  {
+    "file": "ttf/Origin1859-Italic.ttf",
+    "name_table": {
+      "0": "Scan-based reconstruction, 2026. Source: Darwin, On the Origin of Species (1859), Wellcome Collection b1802922x.",
+      "1": "Origin 1859 Text",
+      "2": "Italic",
+      "3": "Origin1859Text-Italic-1.00",
+      "4": "Origin 1859 Text Italic",
+      "5": "Version 1.00",
+      "6": "Origin1859Text-Italic",
+      "8": null,
+      "9": "Michael Koksharov",
+      "10": "Origin 1859, Greek retraced from Kuhner 1859. Explicit straight-edge constructions and source-coordinate curves; no global smoothing or thinning. Upright Greek is a de-slanted adaptation. Designed by Michael Koksharov using multiple cycles of ChatGPT 6 Work.",
+      "11": null,
+      "12": null,
+      "13": "CC0 dedication; use, modify and redistribute freely.",
+      "14": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "16": "Origin 1859 Text",
+      "17": "Italic"
+    },
+    "font_revision": 1.0,
+    "units_per_em": 1000,
+    "embedding_restrictions_fsType": 0,
+    "unicode_mapping_count": 190
+  },
+  {
+    "file": "ttf/Origin1859-SmallCaps.ttf",
+    "name_table": {
+      "0": "Scan-based reconstruction created 2026. Source: Charles Darwin, On the Origin of Species (1859), Wellcome Collection b1802922x (Public Domain Mark).",
+      "1": "Origin 1859 Text Small Caps",
+      "2": "Regular",
+      "3": "Origin1859Text-SmallCaps-1.00",
+      "4": "Origin 1859 Text Small Caps",
+      "5": "Version 1.00",
+      "6": "Origin1859Text-SmallCaps",
+      "8": null,
+      "9": "Michael Koksharov",
+      "10": "Scan-derived small capitals based on the regular Origin 1859 typeface; original letter geometry and spacing retained. Designed by Michael Koksharov using multiple cycles of ChatGPT 6 Work.",
+      "11": null,
+      "12": null,
+      "13": "This reconstruction may be used, modified and redistributed freely, including commercially. No claim of exact recovery of the original metal punches.",
+      "14": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "16": "Origin 1859 Text Small Caps",
+      "17": "Regular"
+    },
+    "font_revision": 1.0,
+    "units_per_em": 1000,
+    "embedding_restrictions_fsType": 0,
+    "unicode_mapping_count": 139
+  }
+]
