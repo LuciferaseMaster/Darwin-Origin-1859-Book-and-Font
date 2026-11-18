@@ -65,3 +65,5 @@ metal punches exactly.
 The existing font metadata permits free use, modification, and redistribution,
 including commercial use, and links to **CC0 1.0**. See the
 [license scope](../LICENSE.md) and [CC0 text](../licenses/CC0-1.0.txt).
+
+![](/fonts/images/typographic-anatomy.jpg)
