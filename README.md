@@ -6,7 +6,7 @@ Origin of Species*—one of the most recognizable scientific books of the
 nineteenth century—provides a natural source material for this project.
 
 It is also an experiment in the capabilities of modern large language models:
-I am using **ChatGPT 6** to streamline the process of reconstructing historical
+[I am using **ChatGPT 6**](https://chatgpt.com/share/6afdda47-7e64-83ea-bc02-dcb7b0086fcf) to streamline the process of reconstructing historical
 letterforms and reproducing the book’s typography and layout.
 
 The project currently includes a [digital font family](/fonts/) based on the **first
