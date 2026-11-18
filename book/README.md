@@ -82,21 +82,17 @@ Compare uncertain readings with the [source scans](../docs/SOURCES.md).
 ## Other compact digital editions
 
 Readers interested in other compact digital editions of *On the Origin of
-Species* may also wish to consult:
+Species* may also check:
 
 - **GlobalBookShelf** — [On the Origin of Species](https://globalbookshelf.org/book/on-the-origin-of-species).
-  Free PDF and EPUB downloads; the site lists the PDF at approximately **2.8 MB**.
+  Free PDF and EPUB downloads; **2.8 MB** PDF.
 - **Atlas Media** — [On the Origin of Species](https://theatlasmedia.com.au/books/on-the-origin-of-species-charles-darwin/).
-  PDF and EPUB downloads, with the PDF listed at approximately **5.1 MB**.
+  PDF and EPUB downloads, **5.1 MB** PDF.
   This edition uses Darwin’s **sixth London edition (1872)** as its textual basis.
 - **Goldstein (2011)** — Adam M. Goldstein,
   [*A New Digital Edition of Darwin’s 1859 Origin of Species*](https://doi.org/10.1007/s12052-011-0333-6),
   *Evolution: Education and Outreach* **4**, 350–353.
-  Describes the Darwin Manuscripts Project’s LaTeX-typeset edition of the
-  **1859 text**, reporting a **6.4 MB** book PDF with modern pagination and
-  references to the original page numbers. The link leads to the article
-  describing that edition, rather than directly to the book PDF.
+  The Darwin Manuscripts Project had produced a LaTeX-typeset edition of the
+  **1859 text** (**6.4 MB** book PDF) with a goal of scholarly textual accuracy and usability.
 
-These independently produced editions have their own typography and layout.
-Check the textual edition when citing Darwin; the listed file sizes are those
-reported by the providers or publication and may change.
+
