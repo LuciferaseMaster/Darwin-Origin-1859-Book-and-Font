@@ -11,8 +11,8 @@ letterforms and reproducing the book’s typography and layout.
 
 The project currently includes a digital font family based on the **first
 edition of Darwin’s *On the Origin of Species* (1859)** and a **compact PDF
-reconstruction of the book typeset with these fonts**. An editable Word version
-is also included.
+reconstruction of the book typeset with these fonts**. The book is available
+as an editable Word document, two PDF exports, and a reflowable EPUB.
 
 Font design and reconstruction: **Michael Koksharov**, using multiple cycles
 of **ChatGPT 6 Work**. Charles Darwin is the author of the original book.
@@ -23,16 +23,26 @@ of **ChatGPT 6 Work**. Charles Darwin is the author of the original book.
 
 | Material | File |
 | --- | --- |
-| Book for reading | [PDF](book/Darwin-Origin-1859-Text.pdf) |
+| Book — PDF, LibreOffice export | [PDF](book/Darwin-Origin-1859-Text.pdf) |
+| Book — PDF, Microsoft Office export | [Office PDF](book/Darwin-Origin-1859-Text-MSOffice.pdf) |
+| Book — reflowable EPUB | [EPUB](book/Darwin-Origin-1859-Text.epub) |
 | Editable book | [Word DOCX](book/Darwin-Origin-1859-Text.docx) |
 | Regular font, 1.00 | [Origin1859-Regular.ttf](fonts/ttf/Origin1859-Regular.ttf) |
 | Italic font, 1.00 | [Origin1859-Italic.ttf](fonts/ttf/Origin1859-Italic.ttf) |
 | Small caps font, 1.00 | [Origin1859-SmallCaps.ttf](fonts/ttf/Origin1859-SmallCaps.ttf) |
 
-The book has **544 PDF pages**, including the preliminary matter, folded
+Both PDF exports have **544 pages**, including the preliminary matter, folded
 diagram and its reverse, main text, index, and publisher’s catalogue.
 The DOCX embeds the same three fonts provided here. Install the TTF files
-for editing, and use the supplied PDF for a fixed reading layout.
+for editing, and use a PDF for a fixed reading layout. The EPUB embeds the same
+fonts, reflows to fit the reading device, and provides chapter and original-page
+navigation.
+
+The Microsoft Office PDF was saved from the DOCX in Microsoft Word for
+Microsoft 365 and is approximately **2.90 MB**, compared with **3.94 MB** for
+the LibreOffice PDF. Both display the fractions correctly. The LibreOffice PDF
+also includes searchable text values for the fraction artwork; copying and
+searching those fractions can differ in the Office export.
 
 ## About the reconstruction
 
