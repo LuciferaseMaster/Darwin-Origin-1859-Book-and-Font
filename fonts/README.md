@@ -32,7 +32,7 @@ final sigma, a theta variant, and a distinct micro sign. Greek forms were
 reconstructed from Kühner’s 1859 grammar and adapted to the Origin faces.
 The slanted Greek follows the source printing; upright Greek includes
 geometric adaptations. The micro sign has an adapted left descender distinct
-from Greek mu, informed by [GFS Artemisia](https://fontesk.com/gfs-artemisia-typeface/) typeface as a visual reference. No Artemisia
+from Greek mu, informed by [GFS Artemisia](https://www.greekfontsociety-gfs.gr/typefaces/20th_21st_century) typeface as a visual reference. No Artemisia
 outline data were imported.
 
 The Small Caps is a separate companion family. Its letters are approximately
