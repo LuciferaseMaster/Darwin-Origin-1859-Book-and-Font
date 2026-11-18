@@ -17,6 +17,8 @@ is also included.
 Font design and reconstruction: **Michael Koksharov**, using multiple cycles
 of **ChatGPT 6 Work**. Charles Darwin is the author of the original book.
 
+![Origin 1859 Text: Regular, Italic, Small Caps, and sample Greek letters.](fonts/images/Origin1859-Overview.png)
+
 ## Download
 
 | Material | File |

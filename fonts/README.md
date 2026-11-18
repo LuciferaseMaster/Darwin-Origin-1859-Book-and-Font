@@ -10,6 +10,15 @@ They contain vector outlines and permit unrestricted document embedding.
 | [Origin1859-Italic.ttf](ttf/Origin1859-Italic.ttf) | Origin 1859 Text | Italic | 190 |
 | [Origin1859-SmallCaps.ttf](ttf/Origin1859-SmallCaps.ttf) | Origin 1859 Text Small Caps | Regular | 139 |
 
+## Specimens
+
+These specimens are rendered directly from the supplied version 1.00 TTF files
+with kerning enabled. Click an image to inspect it at full resolution.
+
+![Origin 1859 Text Latin specimen: Regular and Italic alphabets, Small Caps, numerals, punctuation, accents, and ligatures.](images/Origin1859-Latin-Specimen.png)
+
+![Origin 1859 Text Greek specimen: Regular and Italic capitals and lowercase, final sigma, theta variant, Greek mu, and the distinct micro sign.](images/Origin1859-Greek-Specimen.png)
+
 ## Design
 
 The Latin letterforms reproduce the general appearance of the text type in
