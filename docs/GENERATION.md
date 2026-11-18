@@ -2,7 +2,7 @@
 
 The project reconstructs both the appearance of nineteenth-century type and
 an editable, readable edition of the book. Michael Koksharov directed the work
-through multiple cycles of ChatGPT 6 Work, comparing generated material with
+[through multiple cycles of ChatGPT 6 Work](https://chatgpt.com/share/6afdda47-7e64-83ea-bc02-dcb7b0086fcf), comparing generated material with
 the historical scans and specifying typographic corrections.
 
 ## Typeface reconstruction
