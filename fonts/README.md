@@ -63,7 +63,7 @@ metal punches exactly.
 ## Comparison of fonts in a scientific manuscript
 
 Below the "Origin 1859 Text" font is compared with "EB Garamond" and "Stix 2" fonts in a page of a [scientific paper manuscript](https://doi.org/10.17605/OSF.IO/EZU6F):
-(The first two fonts are set to 11 pt size while the third is 10 pt size to have approximately the same actual letter sizes.)
+<br>(The first two fonts are set to 11 pt size while the third is 10 pt size to have approximately the same actual letter sizes.)
 
 ![EB Garamond vs Origin 1859 vs Stix 2 fonts as a body text in standard scientific paper page](/docs/Font-comparison-paper-page.png)
 
