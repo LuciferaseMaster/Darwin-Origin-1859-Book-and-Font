@@ -71,6 +71,17 @@ As a comparison, "[Century SchoolBook](https://learn.microsoft.com/en-us/typogra
 
 ![EB Garamond vs Origin 1859 vs Stix 2 fonts as a body text in standard scientific paper page](/docs/Font-comparison-paper-page-v2.png)
 
+Overall font attractiveness for use in scientific papers:
+
+| Aesthetic preference | Font | Assessment |
+|---|---|---|
+| 1–2 | **EB Garamond** | Elegant, light, and visually balanced. Excellent spacing and a traditional scholarly appearance. Particularly attractive in narrow, justified columns. |
+| 1–2 | **Junicode 2** | Distinctive historical character inspired by 17th-century typography. Elegant and scholarly, with flexible widths and extensive character support. A strong alternative to EB Garamond. |
+| 3 | **STIX Two Text** | Crisp, professional, and particularly suitable for scientific publications. More contemporary and utilitarian, with excellent mathematical character support. |
+| 4 | **Century Schoolbook** | Highly readable and substantial, but its heavier, wider letterforms make the manuscript look somewhat crowded. |
+| 5 | **Origin 1859 Text** | Attractive historical typography with distinctive 19th-century character, but less visually consistent for a modern scientific manuscript. |
+
+
 ## License
 
 The existing font metadata permits free use, modification, and redistribution,
