@@ -23,10 +23,10 @@ of **ChatGPT 6 Work**](https://chatgpt.com/share/6afdda47-7e64-83ea-bc02-dcb7b00
 
 | Material | File |
 | --- | --- |
-| Book — PDF, LibreOffice export | [PDF](book/Darwin-Origin-1859-Text.pdf) |
-| Book — PDF, Microsoft Office export | [Office PDF](book/Darwin-Origin-1859-Text-MSOffice.pdf) |
-| Book — reflowable EPUB | [EPUB](book/Darwin-Origin-1859-Text.epub) |
-| Editable book | [Word DOCX](book/Darwin-Origin-1859-Text.docx) |
+| Book — PDF, LibreOffice export | [PDF](book/Darwin-Origin-1859-Text.pdf), 3.8 Mb |
+| Book — PDF, Microsoft Office export | [Office PDF](book/Darwin-Origin-1859-Text-MSOffice.pdf), 2.8 Mb |
+| Book — reflowable EPUB | [EPUB](book/Darwin-Origin-1859-Text.epub), 1.5 Mb |
+| Editable book | [Word DOCX](book/Darwin-Origin-1859-Text.docx), 2 Mb |
 | Regular font, 1.00 | [Origin1859-Regular.ttf](fonts/ttf/Origin1859-Regular.ttf) |
 | Italic font, 1.00 | [Origin1859-Italic.ttf](fonts/ttf/Origin1859-Italic.ttf) |
 | Small caps font, 1.00 | [Origin1859-SmallCaps.ttf](fonts/ttf/Origin1859-SmallCaps.ttf) |
