@@ -51,6 +51,10 @@ Below the "Origin 1859 Text" font is compared with "[EB Garamond](https://fonts.
 
 ![EB Garamond vs Origin 1859 vs Stix 2 fonts as a body text in standard scientific paper page](/docs/Font-comparison-paper-page.png)
 
+As a comparison, "[Century SchoolBook](https://learn.microsoft.com/en-us/typography/font-list/century-schoolbook)" is used in another side-by-side presentation, as a font from the same stylistic type ([Scotch Roman font genre](https://en.wikipedia.org/wiki/Century_type_family)) as the "Origin 1859" font:
+
+![EB Garamond vs Origin 1859 vs Stix 2 fonts as a body text in standard scientific paper page](/docs/Font-comparison-paper-page-v2.png)
+
 ## About the reconstruction
 
 Letterforms were recovered from scans, compared across repeated impressions,
